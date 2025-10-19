@@ -1,5 +1,8 @@
+// ignore_for_file: unused_import
+
 import 'package:flutter/material.dart';
 import 'package:shopping/counter/counter.dart';
+import 'package:shopping/l10n/arb/app_localizations.dart';
 import 'package:shopping/l10n/l10n.dart';
 
 class App extends StatelessWidget {
